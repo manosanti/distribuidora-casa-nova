@@ -1,0 +1,59 @@
+:root {
+  /* marca */
+  --navy: #0e2748;
+  --navy-hover: #16386a;
+  --navy-grad: #123a72;
+  --navy-deep: #0a1c33;
+
+  --azul: #1f63b0;
+  --azul-claro: #7fb0ee;
+  --azul-medio: #8fb4e6;
+  --azul-bg: #eaf2fc;
+  --azul-bg-hover: #dbe9f9;
+  --azul-secao: #eef4fb;
+
+  --verde: #25d366;
+  --verde-hover: #1fbb59;
+  --verde-escuro: #05371a;
+  --verde-forte: #12a150;
+  --verde-forte-hover: #0d8a43;
+  --verde-texto: #0b6b36;
+  --verde-bg: #e6f9ee;
+
+  --perigo: #a33227;
+  --perigo-bg: #fdecea;
+  --perigo-borda: #f5c2bc;
+
+  /* texto */
+  --texto: #3c485c;
+  --texto-forte: #2c3648;
+  --texto-suave: #546074;
+  --texto-fraco: #6b7688;
+  --texto-tenue: #8494a8;
+  --texto-inverso-suave: #aec2dc;
+  --texto-inverso-tenue: #93a5bf;
+  --texto-inverso-claro: #c3d3e8;
+
+  /* superfícies */
+  --fundo: #fbfcfe;
+  --branco: #fff;
+  --surface-1: #f7fafd;
+  --surface-2: #f2f6fb;
+
+  /* bordas */
+  --borda: #e9eef5;
+  --borda-forte: #dde6f1;
+  --borda-suave: #eef2f8;
+  --borda-btn: #d7e3f1;
+
+  /* sombras */
+  --sh-card: 0 10px 28px -20px rgba(14, 39, 72, 0.35);
+  --sh-card-hover: 0 22px 40px -22px rgba(14, 39, 72, 0.45);
+  --sh-flutuante: 0 26px 50px -30px rgba(14, 39, 72, 0.6);
+  --sh-modal: 0 40px 80px -40px rgba(10, 28, 51, 0.7);
+
+  /* layout */
+  --largura: 1160px;
+  --gutter: 22px;
+  --altura-header: 67px;
+}
